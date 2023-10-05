@@ -1,4 +1,4 @@
-# Course Name
+# The Complete Spring Boot Development Bootcamp
 
 This README serves as a summary of what I've learned in various sections of the course. It will be continuously updated as I progress through the course.
 

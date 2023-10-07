@@ -15,11 +15,11 @@ This README serves as a summary of what I've learned in various sections of the 
 
 - For more details, refer to the [Section 1.2](https://github.com/CodeJeffreyG/SpringBootCourse/blob/main/Challange1/painting/Readme.md)
 
-## Section 2: [Add Section Title Here]
+## Section 2: MVC
 
-### [Add Section Subtitle Here]
+### Section 1.2
 
-- Briefly describe what you learned in this section.
+- I learned about the @controller and @getmapping annotations 
 - For more details, refer to the [Section X.X README](sectionX.X/README.md).
 
 ## Section 3: [Add Section Title Here]

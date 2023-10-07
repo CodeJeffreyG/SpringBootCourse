@@ -36,7 +36,7 @@ This README serves as a summary of what I've learned in various sections of the 
 - Briefly describe what you learned in this section.
 - For more details, refer to the [Section X.X README](sectionX.X/README.md).
 
-## Additional Resources
+# # Additional Resources
 
 - [Course Link on Udemy](https://www.udemy.com/the-complete-spring-boot-development-bootcamp/learn/lecture/32313902#announcements): Link to the course on Udemy for reference.
 

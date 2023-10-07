@@ -17,10 +17,10 @@ This README serves as a summary of what I've learned in various sections of the 
 
 ## Section 2: MVC
 
-### Section 1.2
+### Section 2.1
 
-- I learned about the @controller and @getmapping annotations 
-- For more details, refer to the [Section X.X README](sectionX.X/README.md).
+- I learned about the @controller and @getmapping annotations
+- For more details, refer to the [Section X.X README](https://github.com/CodeJeffreyG/SpringBootCourse/blob/main/workbook-2.1/workbook/Readme.md).
 
 ## Section 3: [Add Section Title Here]
 
